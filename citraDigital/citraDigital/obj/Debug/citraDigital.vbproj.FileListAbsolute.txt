@@ -1,0 +1,13 @@
+D:\Kuliah\Semester 6\ProgDesktop\10\Hol\citraDigital\citraDigital\obj\Debug\citraDigital.vbproj.AssemblyReference.cache
+D:\Kuliah\Semester 6\ProgDesktop\10\Hol\citraDigital\citraDigital\obj\Debug\citraDigital.frmUtama.resources
+D:\Kuliah\Semester 6\ProgDesktop\10\Hol\citraDigital\citraDigital\obj\Debug\citraDigital.frmHistogram.resources
+D:\Kuliah\Semester 6\ProgDesktop\10\Hol\citraDigital\citraDigital\obj\Debug\citraDigital.Resources.resources
+D:\Kuliah\Semester 6\ProgDesktop\10\Hol\citraDigital\citraDigital\obj\Debug\citraDigital.vbproj.GenerateResource.cache
+D:\Kuliah\Semester 6\ProgDesktop\10\Hol\citraDigital\citraDigital\obj\Debug\citraDigital.vbproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 6\ProgDesktop\10\Hol\citraDigital\citraDigital\bin\Debug\citraDigital.exe.config
+D:\Kuliah\Semester 6\ProgDesktop\10\Hol\citraDigital\citraDigital\bin\Debug\citraDigital.exe
+D:\Kuliah\Semester 6\ProgDesktop\10\Hol\citraDigital\citraDigital\bin\Debug\citraDigital.pdb
+D:\Kuliah\Semester 6\ProgDesktop\10\Hol\citraDigital\citraDigital\bin\Debug\citraDigital.xml
+D:\Kuliah\Semester 6\ProgDesktop\10\Hol\citraDigital\citraDigital\obj\Debug\citraDigital.exe
+D:\Kuliah\Semester 6\ProgDesktop\10\Hol\citraDigital\citraDigital\obj\Debug\citraDigital.xml
+D:\Kuliah\Semester 6\ProgDesktop\10\Hol\citraDigital\citraDigital\obj\Debug\citraDigital.pdb
